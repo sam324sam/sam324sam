@@ -15,7 +15,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 
 ### 📫 ¿Dónde encontrarme?
 - **Portafolio**: [mi portafolio](https://miportafolio.com)
-- **LinkedIn**: [linkedin]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/samuel-moniz-pereira-897015342/))
+- **LinkedIn**: [linkedin](https://www.linkedin.com/in/samuel-moniz-pereira-897015342/)
 - **CV**: [Curriculun](https://drive.google.com/file/d/1n_bb1LdiiCDaZGuRRbqvDhvFMsO02EoO/view?usp=sharing)
 
 ### ⚡ Datos curiosos sobre mí
