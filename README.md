@@ -9,6 +9,9 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 - **Herramientas**: VS Code, XAMPP, MySQL
 - **Diseño web**: Accesibilidad, Responsive Design, Usabilidad
 
+###🎓 Formación
+-🎓 Grado de Desarrollo de Aplicaciones Web | 2023 - 2025
+
 ### 📚 Actualmente estoy aprendiendo...
 - Implementación de funcionalidades avanzadas en JavaScript
 - Buenas prácticas de accesibilidad en diseño web
