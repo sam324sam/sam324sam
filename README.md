@@ -14,7 +14,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 - Buenas prácticas de accesibilidad en diseño web
 
 ### 📫 ¿Dónde encontrarme?
-- **Portafolio**: [mi portafolio]([https://miportafolio.com](https://sam324sam.github.io/Blog/))
+- **Portafolio**: [mi portafolio](https://sam324sam.github.io/Blog/)
 - **LinkedIn**: [linkedin](https://www.linkedin.com/in/samuel-moniz-pereira-897015342/)
 - **CV**: [Curriculun](https://drive.google.com/file/d/1n_bb1LdiiCDaZGuRRbqvDhvFMsO02EoO/view?usp=sharing)
 
