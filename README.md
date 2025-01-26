@@ -32,5 +32,12 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 ### 🎯 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical)
 
-### Herramientas PHP
-- [Gestor de Base de Datos](https://github.com/sam324sam/Gestion-movilidad)
+### Juegos JavaScript
+- [Conecta 4](https://github.com/sam324sam/Conecta_4)
+- [Juego de memoria](https://github.com/sam324sam/Juego_De_Memoria)
+- [Tres en raya](https://github.com/sam324sam/Tres_En_Raya)
+
+### Herramientas
+- [Calculadora JS](https://github.com/sam324sam/Calculadora)
+- [Gestion de nominas Java](https://github.com/sam324sam/GestionNominasJava)
+- [Gestor de movilidad](https://github.com/sam324sam/Gestion-movilidad)
