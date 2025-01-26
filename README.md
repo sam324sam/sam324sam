@@ -26,11 +26,16 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 - Disfruto compartir conocimientos y colaborar en proyectos de equipo.
 
 ---
-### 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sam324sam&show_icons=true&theme=radical)
-
-### 🎯 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical)
+<div style="display:flex; justify-content: space-around; align-items: center;">
+    <div>
+        <h3>📊 Estadísticas de GitHub</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=sam324sam&show_icons=true&theme=radical" alt="GitHub stats">
+    </div>
+    <div>
+        <h3>🎯 Lenguajes más usados</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical" alt="Top Langs">
+    </div>
+</div>
 
 ### Juegos JavaScript
 - [Conecta 4](https://github.com/sam324sam/Conecta_4)
