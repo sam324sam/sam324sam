@@ -26,11 +26,11 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 - Disfruto compartir conocimientos y colaborar en proyectos de equipo.
 
 ---
-<div style="margin: auto;">
+<div>
     <h3>📊 Estadísticas de GitHub</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=sam324sam&show_icons=true&theme=radical" alt="GitHub stats" style="width: 50%;">
 </div>
-<div style="margin: auto;">
+<div>
     <h3>🎯 Lenguajes más usados</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical" alt="Top Langs" style="width: 50%;">
 </div>
