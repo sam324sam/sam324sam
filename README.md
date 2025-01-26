@@ -33,4 +33,4 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical)
 
 ### Herramientas PHP
-- [Gestor de Base de Datos]([https://github.com/tuUsuario/php-gestorDB](https://github.com/sam324sam/Gestion-movilidad))
+- [Gestor de Base de Datos](https://github.com/sam324sam/Gestion-movilidad)
