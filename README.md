@@ -26,15 +26,13 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 - Disfruto compartir conocimientos y colaborar en proyectos de equipo.
 
 ---
-<div style="display:flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 1; margin-right: 10px;">
-        <h3>📊 Estadísticas de GitHub</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=sam324sam&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%;">
-    </div>
-    <div style="flex: 1; margin-left: 10px;">
-        <h3>🎯 Lenguajes más usados</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
-    </div>
+<div style="flex: 1; margin-right: 10px;">
+    <h3>📊 Estadísticas de GitHub</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=sam324sam&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%;">
+</div>
+<div style="flex: 1; margin-left: 10px;">
+    <h3>🎯 Lenguajes más usados</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;">
 </div>
 
 ### Juegos JavaScript
