@@ -34,6 +34,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
     <h3>🎯 Lenguajes más usados</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&theme=radical" alt="Top Langs">
 </div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=plastic)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=plastic)
