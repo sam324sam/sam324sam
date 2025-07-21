@@ -5,8 +5,8 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 
 ### 🛠️ Tecnologías y habilidades
 - **Lenguajes**: JavaScript, PHP, HTML5, CSS3, SQL, Java
-- **Frameworks y librerías**: Node.js, Vue (en aprendizaje)
-- **Herramientas**: VS Code, XAMPP, MySQL
+- **Frameworks y librerías**: Vue, Node.js
+- **Herramientas**: VS Code, XAMPP, MySQL, POSTGRESQL (PGADMIN)
 - **Diseño web**: Accesibilidad, Responsive Design, Usabilidad
 
 ### 🎓 Formación
@@ -23,7 +23,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por la 
 
 ### ⚡ Datos curiosos sobre mí
 - Me encanta aprender cosas nuevas y siempre estoy buscando desafíos que me permitan crecer como desarrollador.
-- Disfruto compartir conocimientos y colaborar en proyectos de equipo.
+- Disfruto compartir conocimientos y colaborar en proyectos.
 
 ---
 <div>
