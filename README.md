@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Web (DAW)** apasionado por crear soluciones web funcionales, interactivas y accesibles. Me motiva el aprendizaje continuo y enfrentar nuevos desafíos que impulsen mi crecimiento como desarrollador.
+**Desarrollador de Aplicaciones Web (DAW)** apasionado por crear soluciones web funcionales, interactivas y accesibles. Me motiva el aprendizaje continuo y enfrentar nuevos desafíos que impulsen mi crecimiento como desarrollador.
 
 > 💡 Siempre buscando aprender tecnologías emergentes y colaborar en proyectos innovadores.
 
