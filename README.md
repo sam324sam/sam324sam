@@ -1,3 +1,5 @@
+![Visitas](https://komarev.com/ghpvc/?username=sam324sam&label=Visitas)
+
 # 👋 ¡Hola! Soy Samuel Moniz Pereira
 
 <div align="center">
