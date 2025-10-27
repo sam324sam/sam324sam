@@ -60,23 +60,23 @@
 
 ### 🎮 Juegos para el aprendizaje
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Juego_De_Memoria)](https://github.com/sam324sam/Juego_De_Memoria)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Tres_En_Raya)](https://github.com/sam324sam/Tres_En_Raya)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Juego_De_Memoria&theme=radical)](https://github.com/sam324sam/Juego_De_Memoria)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Tres_En_Raya&theme=radical)](https://github.com/sam324sam/Tres_En_Raya)
 
 ### 🧰 Aplicaciones y Herramientas
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Calculadora)](https://github.com/sam324sam/Calculadora)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=GestionNominasJava)](https://github.com/sam324sam/GestionNominasJava)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_movilidad)](https://github.com/sam324sam/Gestion_movilidad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_FCT_Nodejs)](https://github.com/sam324sam/Gestion_FCT_Nodejs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Calculadora&theme=radical)](https://github.com/sam324sam/Calculadora)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=GestionNominasJava&theme=radical)](https://github.com/sam324sam/GestionNominasJava)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_movilidad&theme=radical)](https://github.com/sam324sam/Gestion_movilidad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_FCT_Nodejs&theme=radical)](https://github.com/sam324sam/Gestion_FCT_Nodejs)
 
 ### 🎯 Proyectos con Frameworks
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=To-do-list-Backend)](https://github.com/DannaPatricia/To-do-list-Backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=To-do-list-Frontend)](https://github.com/sam324sam/To-do-list-Frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Pokedex)](https://github.com/sam324sam/Pokedex)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=LoginSpringBoot)](https://github.com/sam324sam/LoginSpringBoot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=To-do-list-Backend&theme=radical)](https://github.com/DannaPatricia/To-do-list-Backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=To-do-list-Frontend&theme=radical)](https://github.com/sam324sam/To-do-list-Frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Pokedex&theme=radical)](https://github.com/sam324sam/Pokedex)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=LoginSpringBoot&theme=radical)](https://github.com/sam324sam/LoginSpringBoot)
 
 ### 🎲 Desarrollo de Videojuegos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Primer_Juego_En_Godot)](https://github.com/sam324sam/Primer_Juego_En_Godot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Primer_Juego_En_Godot&theme=radical)](https://github.com/sam324sam/Primer_Juego_En_Godot)
 
 ---
 
