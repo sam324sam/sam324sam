@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Samuel Moniz Pereira
 
-**Desarrollador de Aplicaciones Web (DAW)** apasionado por crear soluciones web funcionales, interactivas y accesibles. Me motiva el aprendizaje continuo y enfrentar nuevos desafíos que impulsen mi crecimiento como desarrollador.
+**Desarrollador de Aplicaciones Web (DAW)** apasionado por crear soluciones web funcionales, interactivas y accesibles. Me motiva el aprendizaje continuo y enfrentar nuevos desafíos que impulsen mi crecimiento como desarrollador.<br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.samuelmoniz.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-moniz-pereira-897015342/)
 
