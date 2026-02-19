@@ -12,8 +12,7 @@
 
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,24 +52,33 @@
 
 ### 🎮 Juegos para el aprendizaje
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Juego_De_Memoria&theme=radical)](https://github.com/sam324sam/Juego_De_Memoria)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Tres_En_Raya&theme=radical)](https://github.com/sam324sam/Tres_En_Raya)
+- 🔹 [Mokito-web](https://github.com/sam324sam/Mokito-web)
+- 🔹 [Juego_De_Memoria](https://github.com/sam324sam/Juego_De_Memoria)
+- 🔹 [Tres_En_Raya](https://github.com/sam324sam/Tres_En_Raya)
+
+---
 
 ### 🧰 Aplicaciones y Herramientas
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Calculadora&theme=radical)](https://github.com/sam324sam/Calculadora)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=GestionNominasJava&theme=radical)](https://github.com/sam324sam/GestionNominasJava)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_movilidad&theme=radical)](https://github.com/sam324sam/Gestion_movilidad)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Gestion_FCT_Nodejs&theme=radical)](https://github.com/sam324sam/Gestion_FCT_Nodejs)
+
+- 🔹 [Calculadora](https://github.com/sam324sam/Calculadora)
+- 🔹 [GestionNominasJava](https://github.com/sam324sam/GestionNominasJava)
+- 🔹 [Gestion_movilidad](https://github.com/sam324sam/Gestion_movilidad)
+- 🔹 [Gestion_FCT_Nodejs](https://github.com/sam324sam/Gestion_FCT_Nodejs)
+
+---
 
 ### 🎯 Proyectos con Frameworks
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DannaPatricia&repo=To-do-list-Backend&theme=radical)](https://github.com/DannaPatricia/To-do-list-Backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=To-do-list-Frontend&theme=radical)](https://github.com/sam324sam/To-do-list-Frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Pokedex&theme=radical)](https://github.com/sam324sam/Pokedex)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=LoginSpringBoot&theme=radical)](https://github.com/sam324sam/LoginSpringBoot)
+
+- 🔹 [To-do-list-Backend](https://github.com/DannaPatricia/To-do-list-Backend)
+- 🔹 [To-do-list-Frontend](https://github.com/sam324sam/To-do-list-Frontend)
+- 🔹 [Pokedex](https://github.com/sam324sam/Pokedex)
+- 🔹 [LoginSpringBoot](https://github.com/sam324sam/LoginSpringBoot)
+
+---
 
 ### 🎲 Desarrollo de Videojuegos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sam324sam&repo=Primer_Juego_En_Godot&theme=radical)](https://github.com/sam324sam/Primer_Juego_En_Godot)
 
+- 🔹 [Primer_Juego_En_Godot](https://github.com/sam324sam/Primer_Juego_En_Godot)
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -80,8 +88,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam324sam&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sam324sam&theme=radical" alt="GitHub Streak"/>
-</div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam324sam&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
