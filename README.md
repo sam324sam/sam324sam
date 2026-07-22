@@ -58,10 +58,22 @@
 <br><br>
 
 ### 🎯 Proyectos con Frameworks
+<a href="https://github.com/sam324sam/Pokedex-V2">
+  <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=Pokedex-V2&theme=radical" />
+</a>
+
+<a href="https://github.com/sam324sam/Mokito-web">
+  <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=Mokito-web&theme=radical" />
+</a>
+
+<a href="https://github.com/sam324sam/Mokito-Web-Backend">
+  <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=Mokito-Web-Backend&theme=radical" />
+</a>
 
 <a href="https://github.com/DannaPatricia/To-do-list-Backend">
   <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=DannaPatricia&repo=To-do-list-Backend&theme=radical" />
 </a>
+
 <a href="https://github.com/sam324sam/To-do-list-Frontend">
   <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=To-do-list-Frontend&theme=radical" />
 </a>
@@ -69,12 +81,11 @@
 <a href="https://github.com/sam324sam/Pokedex">
   <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=Pokedex&theme=radical" />
 </a>
+
 <a href="https://github.com/sam324sam/LoginSpringBoot">
   <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=LoginSpringBoot&theme=radical" />
 </a>
-<a href="https://github.com/sam324sam/Mokito-web">
-  <img src="https://github-readme-stats-liard-ten-11.vercel.app/api/pin/?username=sam324sam&repo=Mokito-web&theme=radical" />
-</a>
+
 
 <br><br>
 
