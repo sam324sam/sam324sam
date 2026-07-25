@@ -1,10 +1,6 @@
-<video src="baner.mp4"
-       autoplay
-       loop
-       muted
-       playsinline
-       width="100%">
-</video>
+<p align="center">
+  <img src="baner.gif" alt="Banner" width="100%">
+</p>
 
 **Desarrollador de Aplicaciones Web (DAW)** apasionado por crear soluciones web funcionales, interactivas y accesibles. Me motiva el aprendizaje continuo y enfrentar nuevos desafíos que impulsen mi crecimiento como desarrollador.<br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.samuelmoniz.es)
