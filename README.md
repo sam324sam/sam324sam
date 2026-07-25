@@ -7,6 +7,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-moniz-pereira-897015342/)
 ![Visitas del perfil](https://komarev.com/ghpvc/?username=sam324sam&color=6b3fa0&style=for-the-badge)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 🛠️ Stack Tecnológico
 
 <table>
@@ -169,13 +175,4 @@
 </div>
 
 ## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sam324sam&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## 🐍 Mi actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake.svg" />
-  <img alt="snake gif" src="https://raw.githubusercontent.com/sam324sam/sam324sam/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
